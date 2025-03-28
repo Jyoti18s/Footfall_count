@@ -1,0 +1,10 @@
+{
+    "video_path": "C:/tracking/footfall_counter/Video/test_videos/20250319112746526_41d555e762ab4d4fa665a2b471c982fc_B73713197.mp4",
+    "mask_path": "C:/tracking/footfall_counter/Video/test_videos/masks/mask.png",
+    "model_path": "C:/tracking/footfall_counter/Model/yolov9t.pt",
+    "output_path": "C:/tracking/footfall_counter/Video/prediction_output/output.avi",
+    "csv_output": "C:/tracking/footfall_counter/Video/prediction_output/output.csv",
+    "thumbnail_folder" : "C:/tracking/footfall_counter/Video/test_videos/thumbnails",
+    "image_path" : "C:/tracking/footfall_counter/Video/test_videos/frame0.jpg",
+    "frames_folder" : "C:/tracking/footfall_counter/Video/test_videos/frames"
+}
